@@ -19,7 +19,7 @@
   display: none;
 }
 
-label{
+.label{
   display: block;
   position: absolute;
   top: 0;
